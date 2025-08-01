@@ -1,4 +1,5 @@
 # React + Vite
+# Dice_Game
 <img width="1881" height="901" alt="image" src="https://github.com/user-attachments/assets/d58a31e7-daa2-449b-9fc2-4bde792ee905" />
 
 
