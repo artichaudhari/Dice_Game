@@ -1,6 +1,6 @@
-# React + Vite
+
 # Dice_Game
-<img width="1881" height="901" alt="image" src="https://github.com/user-attachments/assets/d58a31e7-daa2-449b-9fc2-4bde792ee905" />
+<img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/863e08cb-b977-4d5c-b33e-a7d736f07079" />
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
